@@ -107,5 +107,30 @@ margin:15px;
 
 }
 
+.primaryActive {
+    background-color: #3a66b7
+}
+
+.successActive {
+    background-color: #668c35
+}
+
+.dangerActive {
+    background-color: #ad4848
+}   
+
+.warningActive {
+    background-color: #ba7a43
+}
+
+.infoActive {
+    background-color: #4386ba
+}   
+
+.sectionHead {
+    border-bottom: 5px solid #dddddd;
+}
+
+
 
 
