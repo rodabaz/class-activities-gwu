@@ -1,0 +1,32 @@
+.customNav {
+    background-color: grey;
+    padding: 20px 10px;
+}
+
+.customNav a{
+    color:white !important; 
+
+}
+
+.navbar-nav{
+    Margin-left:auto;
+    margin-right: 0 !important;
+}
+
+
+
+.jumbotron {
+    background-image: url(../images/coverphoto-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+}
+
+.heroContent h1 {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
