@@ -15,7 +15,7 @@
 
 
 
-.jumbotron {
+.heroBackground2 {
     background-image: url(../images/coverphoto-desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -29,4 +29,34 @@
     color: white;
     text-align: center;
     font-size: 48px;
+
 }
+
+.contentSection {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.heading {
+    color: lightgray;
+    margin-bottom: 40px;
+
+}
+
+
+.sectionHeading {
+    background-color:lightgray ;
+    text-align: center;
+    color: white;
+    padding:50px 0;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.timelineimg {
+    width:100%;
+}
+
+
+
+
